@@ -1,8 +1,8 @@
-# ¡Hola, soy Emilio ACosta! 👋
+# ¡Hola, soy Emilio Acosta! 👋
  
 ## 📌 Sobre mí
 
-Soy Economista apasionado por los datos y la inteligencia artificial, con experiencia en análisis de datos, business intelligence y storytelling. Me encanta convertir datos en información valiosa para la toma de decisiones.
+Soy Ingeniero en Informática apasionado por los datos y la inteligencia artificial, con experiencia en análisis de datos, business intelligence y storytelling. Me encanta convertir datos en información valiosa para la toma de decisiones.
  
 🔹 Experto en herramientas como **Excel, Power BI, SQL y Python**  
 
